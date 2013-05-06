@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Omrails::Application.config.secret_token = '89232fea5cb6c80c1fd76d7a7ebcd9e6a27fb7abccbb9735e3195b1a23a4fcdce8e1298ffca9ce903855be013641496e68081f190005a15acd4101a76c073c50'
+Omrails::Application.config.secret_token = '1aeb43587ec2fa21e986c743d9b2335387624853d93cbabf321f19d16961ca319e0ef8430660565e0b908452a8d2348976cfe9ce2f1e67ed0d3fd878d47a17ae'
